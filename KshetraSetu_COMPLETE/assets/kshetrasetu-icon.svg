@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="KshetraSetu icon">
+  <rect width="256" height="256" rx="48" fill="#0b1220"/>
+  <path d="M48 168 91 74l36 60 31-45 50 79H48Z" fill="none" stroke="#7dd3fc" stroke-width="14" stroke-linejoin="round"/>
+  <circle cx="91" cy="74" r="10" fill="#f8fafc"/>
+  <circle cx="127" cy="134" r="10" fill="#f8fafc"/>
+  <circle cx="158" cy="89" r="10" fill="#f8fafc"/>
+</svg>

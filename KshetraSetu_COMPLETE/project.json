@@ -1,0 +1,16 @@
+{
+  "name": "KshetraSetu",
+  "version": "1.0.0-real-data-mode",
+  "type": "static-web-app",
+  "entry": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python -m http.server 8000"
+  },
+  "deployment": {
+    "docker": "Dockerfile",
+    "render": "render.yaml",
+    "vercel": "vercel.json",
+    "netlify": "netlify.toml"
+  }
+}

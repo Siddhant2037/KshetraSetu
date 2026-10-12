@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: kshetrasetu
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
